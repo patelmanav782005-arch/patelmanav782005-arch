@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**patelmanav782005-arch/patelmanav782005-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Manav A Web Developer and UI/UX Designer passionate about creating simple, functional, and user-friendly experiences.
 
-Here are some ideas to get you started:
+## 🚀 Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building web applications
+- Learning new technologies
+- Working on personal projects
+
+## 🛠️ Tools
+
+React • JavaScript • Tailwind CSS • Figma • Git • VS Code
+
+## 📫 Reach Me
+
+GitHub: @patelmanav782005-arch  
+Email: patelmanav782005@gmail.com
+
+> Recently graduated. Still learning. Always creating.
